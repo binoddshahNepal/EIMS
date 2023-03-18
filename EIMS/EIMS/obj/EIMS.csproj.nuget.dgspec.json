@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Advanced Programming 4 Sem- Section A\\Programs\\EIMS\\EIMS\\EIMS.csproj": {}
+    "C:\\Users\\ashok\\OneDrive\\Desktop\\EIMS\\EIMS\\EIMS\\EIMS.csproj": {}
   },
   "projects": {
-    "E:\\Advanced Programming 4 Sem- Section A\\Programs\\EIMS\\EIMS\\EIMS.csproj": {
+    "C:\\Users\\ashok\\OneDrive\\Desktop\\EIMS\\EIMS\\EIMS\\EIMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Advanced Programming 4 Sem- Section A\\Programs\\EIMS\\EIMS\\EIMS.csproj",
+        "projectUniqueName": "C:\\Users\\ashok\\OneDrive\\Desktop\\EIMS\\EIMS\\EIMS\\EIMS.csproj",
         "projectName": "EIMS",
-        "projectPath": "E:\\Advanced Programming 4 Sem- Section A\\Programs\\EIMS\\EIMS\\EIMS.csproj",
-        "packagesPath": "C:\\Users\\97798\\.nuget\\packages\\",
-        "outputPath": "E:\\Advanced Programming 4 Sem- Section A\\Programs\\EIMS\\EIMS\\obj\\",
+        "projectPath": "C:\\Users\\ashok\\OneDrive\\Desktop\\EIMS\\EIMS\\EIMS\\EIMS.csproj",
+        "packagesPath": "C:\\Users\\ashok\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ashok\\OneDrive\\Desktop\\EIMS\\EIMS\\EIMS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\97798\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ashok\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,29 +42,19 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.13, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.13, )"
-            },
-            "Microsoft.EntityFrameworkCore.Relational": {
-              "target": "Package",
-              "version": "[6.0.13, )"
+              "version": "[7.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.13, )"
+              "version": "[7.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.13, )"
+              "version": "[7.0.4, )"
             },
-            "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.13, )"
             }
@@ -75,7 +65,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -87,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
